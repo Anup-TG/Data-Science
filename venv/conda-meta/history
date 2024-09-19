@@ -1,5 +1,5 @@
-==> 2024-09-19 18:17:27 <==
-# cmd: /opt/anaconda3/bin/conda create -p venv python==3.12.2 -y
+==> 2024-09-19 18:59:11 <==
+# cmd: /opt/anaconda3/bin/conda create -p /Users/anup/Desktop/Github/Data-Science/venv python==3.12.2 -y
 # conda version: 24.7.1
 +defaults/noarch::tzdata-2024a-h04d1e81_0
 +defaults/osx-arm64::bzip2-1.0.8-h80987f9_6
