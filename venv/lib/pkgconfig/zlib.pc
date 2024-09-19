@@ -1,0 +1,13 @@
+prefix=/Users/anup/Desktop/Github/Data-Science/venv
+exec_prefix=/Users/anup/Desktop/Github/Data-Science/venv
+libdir=/Users/anup/Desktop/Github/Data-Science/venv/lib
+sharedlibdir=/Users/anup/Desktop/Github/Data-Science/venv/lib
+includedir=/Users/anup/Desktop/Github/Data-Science/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
